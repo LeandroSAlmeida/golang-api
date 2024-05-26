@@ -5,7 +5,6 @@ To use this project, you need to follow these steps:
 1. Clone the repository: `git clone git@github.com:LeandroSAlmeida/golang-api.git`
 2. Install the dependencies: `go mod download`
 3. Run the application: `go run main.go`
-4. Run the application: `./main`
 
 ## Used Tools
 
